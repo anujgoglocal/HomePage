@@ -1,10 +1,13 @@
 import React from 'react'
 import "./component.css"
 import { Link } from 'react-router-dom'
+import Navbar from './Navbar'
 
 export default function Home() {
   return (
-    <>  <div className="logo" />
+    <>
+      <Navbar />
+      <div className="logo" />
         <div className='connected-world' />
         <div className="img-right" />
         <div className="img-gradient" />

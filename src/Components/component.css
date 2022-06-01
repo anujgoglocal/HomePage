@@ -17,17 +17,19 @@
     box-sizing: border-box;
     justify-content: center;
     align-items: center;
-    padding: 8px 50px;
+    padding: 8px 46px;
     position: absolute;
     width: 149px;
     height: 40px;
     left: 1137px;
     top: 60px;
-    background: #FFFFFF;
+    /* left: 1308px; */
+
+    background: #ffffff;
     border-radius: 10px;
     text-decoration: none;
     color: #646464;
-
+    /* cursor: pointer; */
   }
   
   .btn-sign-up{
@@ -142,6 +144,7 @@
     top: 32px;
     background-image: url('./Images/connected_world.png');
     background-size: 100% 100%;
+    z-index:-1;
 }
 
 .img-right{
