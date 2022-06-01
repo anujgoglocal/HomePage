@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HomePage/static/css/main.e8104273.css",
+    "main.js": "/HomePage/static/js/main.7dc80cab.js",
+    "static/media/Vector.png": "/HomePage/static/media/Vector.55e5ea93dc0765571307.png",
+    "static/media/connected_world.png": "/HomePage/static/media/connected_world.d8638ac3dcd862d9bd9d.png",
+    "static/media/Rectangle 2337.png": "/HomePage/static/media/Rectangle 2337.89bf6bf65c449f6143f1.png",
+    "index.html": "/HomePage/index.html",
+    "main.e8104273.css.map": "/HomePage/static/css/main.e8104273.css.map",
+    "main.7dc80cab.js.map": "/HomePage/static/js/main.7dc80cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8104273.css",
+    "static/js/main.7dc80cab.js"
+  ]
+}
